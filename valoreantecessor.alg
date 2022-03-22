@@ -1,18 +1,17 @@
-algoritmo "antecessor"
+algoritmo "semnome"
 // Função :
 // Autor :
-// Data : 21/03/2022
+// Data : 22/03/2022
 // Seção de Declarações 
 var
-
-a,b,c: real
+numero, antecessor: inteiro
 
 inicio
-// Seção de Comandos ]
+// Seção de Comandos 
+escreval("Digite o número: ",numero)
+leia(numero)
+antecessor<-numero-1
+escreval("O antecessor de ",numero," é: ",antecessor)
 
-a<-10
-b<-5
-c<-(a+b)-1
 
-escreva("O valor de C é: ",c)
 fimalgoritmo
