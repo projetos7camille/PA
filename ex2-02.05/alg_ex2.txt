@@ -1,0 +1,8 @@
+Algoritmo "numeros"
+  Digite um número e armazene em n1
+  Digite um número e armazene em n2
+  Digite um número e armazene em n3
+  Digite um número e armazene em n4
+  Faça TOTAL=(n1*n1)+(n2*n2)+(n3*n3)+(n4*n4)
+  Mostre TOTAL
+FimAlgoritmo
