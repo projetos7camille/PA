@@ -1,0 +1,6 @@
+Algoritmo "ConverterDolar"
+  Digite o valor da cotação do dólar e armazene em COTACAO
+  Digite a quantia em reais e armazene em REAIS
+  Faça DOLAR=REAL/COTACAO
+  Mostre DOLAR
+FimAlgoritmo
