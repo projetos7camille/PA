@@ -1,0 +1,19 @@
+Algoritmo "exercicio3"
+  Digite o preço unitário da peça e armazene PECA
+  Digite a quantidade de peças vendidas e armazene em QTDE
+  Faça PECA*0,05 e atribua a COMISSAO
+  Mostre COMISSAO
+FimAlgoritmo 
+
+
+
+
+
+
+
+Teste de Mesa
+
+PECA    QTDE    COMISSAO
+2.5     200     10
+10      700     35  
+ 
