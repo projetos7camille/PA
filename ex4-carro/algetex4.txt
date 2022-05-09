@@ -1,0 +1,13 @@
+Algoritmo "excarro"
+  Entre com o preço de custo do carro e armazene em CUSTO
+  Faça IMPOSTO = CUSTO * 1,05
+  Faça TRANSP = IMPOSTO * 1,28
+  Faça CFINAL = TRANSP
+  Mostre CFINAL
+FimAlgoritmo
+
+
+Teste de Mesa
+25=33.600
+37=49.728
+
