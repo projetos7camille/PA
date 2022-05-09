@@ -1,0 +1,12 @@
+Algoritmo "desafio1"
+  Digite as horas e armazene em HR
+  Digite os minutos e armazene em MIN
+  Faça MIN/60+HR e armazene em RESULT
+FimAlgoritmo 
+
+
+
+Teste de mesa
+
+3h40=3.67
+1h32=1.52
